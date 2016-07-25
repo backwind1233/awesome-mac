@@ -1,6 +1,6 @@
 # Awesome Mac
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
+[![jaywcjlove/sb](http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/79937674.jpg)](https://github.com/jaywcjlove/awesome-mac)
 
  这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。有这个想法是因为我最近发了一篇较为火爆的涨粉儿微信公众号文章《[工具武装的前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzAwNzgxMjYzMA==&mid=2649129466&idx=1&sn=e50f0049b096cf28b7cf707a4b5adb33#rd)》，于是建了这么一个仓库，持续更新作为补充，搜集更多好用的软件工具。请Star、Pull Request或者使劲搓它 [issues](https://github.com/jaywcjlove/awesome-mac/issues) 给我推荐优秀好用的Mac应用，很显然我是一个资深Mac用户，我需要它们帮助我快乐、高效的工作，同时也分享给你。格式参照[awesome](https://github.com/sindresorhus/awesome)的清单。
 
@@ -134,10 +134,10 @@
 #### 正则编辑器
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
-* [Reginald](#) -
+* [Reginald](http://www.google.com) -
 * [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - 感觉是用过最漂亮的正则表达式测试工具。
-* [Reggy](#) -
-* [RegExRX](#) - 正则表达式的开发工具 ![hot][hot Icon]
+* [Reggy](http://www.google.com) -
+* [RegExRX](http://www.google.com) - 正则表达式的开发工具 ![hot][hot Icon]
 
 ## 测试工具
 
@@ -511,15 +511,15 @@
 **[⬆ 返回顶部](#目录)**
 
 
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
-[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg
-[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg
-[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
-[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
-[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg
+[OSS Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/24411001.jpg
+[Freeware Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/78145733.jpg
+[hot Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/10157803.jpg
+[tuijian Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/81263554.jpg
+[bibei Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/56225231.jpg
+[red Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/89446598.jpg
+[star0 Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/23135790.jpg
+[star1 Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/90501058.jpg
+[star2 Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/23881205.jpg
+[star3 Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/29312827.jpg
+[star4 Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/30551001.jpg
+[star5 Icon]: http://7xpb6w.com1.z0.glb.clouddn.com/16-7-25/74280872.jpg
